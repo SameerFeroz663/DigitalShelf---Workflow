@@ -31,7 +31,7 @@ It’s designed for teams or organizations that deal with large volumes of media
 
 ## 🎥 Demo Video
 
-▶️ **Watch the Demo Video:** [Click Here](https://drive.google.com/file/d/1C0_5LWh824ypoMVbwKyX95Qma8YOA8jP/view?usp=sharing)
+▶️ **Watch the Demo Video:** [Click Here](https://drive.google.com/file/d/1Ufy5JssG79hEQbGU33N0ATUNwuN8D-aF/view?usp=sharing)
 
 > *(This video showcases the complete functionality and interface of Digital Shelf.)*
 
